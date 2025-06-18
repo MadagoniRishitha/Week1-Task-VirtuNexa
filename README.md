@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Factorial Calculator Web App
 
@@ -35,3 +36,7 @@ You can host this on:
 ## License
 
 MIT
+=======
+# Week1-Task-VirtuNexa
+VirtuNexa - WEB DEVELOPMENT INTERNSHIP (WEEK - 1 TASK)
+>>>>>>> 0cbea305f32961c6180ea999ad31ba2f49ced553
